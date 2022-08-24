@@ -1,2 +1,2 @@
 # git-test
-To jest test
+Ten test z poziomu folderu :)
